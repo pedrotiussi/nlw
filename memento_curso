@@ -1,0 +1,27 @@
+<Aulas>
+	<Aula1>
+	//** PASSO A PASSO PARA A CRIAÇÃO DO BACK **
+
+	instalar o nodejs
+	instalar o VSCode
+
+	No VSCode:
+		npm install express
+		npm install @types/express
+		npm install ts-node -D
+		npm install typescript -D
+		npm install ts-node-dev -D
+
+		alterar package.json para incluir, em scripts, um script "dev": "ts-node-dev src/server.ts"
+
+	//** PARA CRIAR A APLICAÇÃO WEB **
+
+	npx create-react-app web --template=typescript
+
+	</Aula1>
+	
+	<Aula2>
+	
+	
+	</Aula2>
+</Aulas>
